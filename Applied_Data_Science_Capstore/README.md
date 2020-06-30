@@ -4,6 +4,6 @@
 
 ### There are mainly three ipynb for this assignment (Week 3)
 
-** The details can be found in each Notebook**
+**The details can be found in each Notebook**
 
 
