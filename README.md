@@ -6,4 +6,4 @@ And learning how to use the MAC to generate the GitHub projects.
 
 ## Welcome!
 
-#### There are several projects in this folder, fell free to check!
+#### There are several projects in this folder, feel free to check!
