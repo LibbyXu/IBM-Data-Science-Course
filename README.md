@@ -1,7 +1,9 @@
 # IBM-Data-Science-Course
 
-Testing for the IBM course, Libby private project. And learning how to use the MAC to generate the GitHub projects.
+Testing for the IBM course, Libby's private projects. 
+
+And learning how to use the MAC to generate the GitHub projects.
 
 ## Welcome!
 
-## Add things!
+#### There are several projects in this folder, fell free to check!
